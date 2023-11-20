@@ -1,6 +1,6 @@
-<h1 align="center">Portifólio Website 💻</h1>
+<h1 align="center">Portifólio Webite 💻</h1>
 
-![Imagem do projeto finalizado](./img/README/Portifófio.png)
+![Imagem do projeto finalizado](./img/README/Portfófio.png)
 
 <h4 align="center"><a href="#">Confira o projeto aqui</a></h4>
 
@@ -8,13 +8,13 @@
 
 ## 💻 Sobre
 
-Projeto feito no intuito de me apresentar, como Programador de Informática.
+Projeto feito no intuito de me apresentar, como Programadora de Informática.
 
 ##  O site é composto por:
 
 - **Home:** Minha apresentação;
 - **Sobre mim:** Falo um pouco sobre minha trajetória e meu estado atual;
-- **Módulos:** Os modulos que fiz no curso de programador de informatica;
+- **Módulos:** Os modulos que fiz no curso de programador de informática;
 - **Blog:** Eventos realizados pela minha turma e por mim;
 - **Fale comigo:** Área com meios para contato comigo;
 
