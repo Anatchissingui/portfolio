@@ -11,3 +11,6 @@
         document.body.classList.toggle("light-mode");
     })
 })();
+function goBack() {
+    window.history.back();
+}
