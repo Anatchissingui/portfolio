@@ -1,4 +1,4 @@
-<h1 align="center">Portifólio Webite 💻</h1>
+<h1 align="center">Portifólio Website 💻</h1>
 
 ![Imagem do projeto finalizado](./img/README/Portfófio.png)
 
